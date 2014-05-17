@@ -1,0 +1,17 @@
+{
+  "author": "Robbie Bardijn",
+  "name": "lessons",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Package for lessons",
+  "dependencies": {
+    "matchdep": "*"
+  },
+  "devDependencies": {
+    "bl": "*",
+    "async": "*"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
