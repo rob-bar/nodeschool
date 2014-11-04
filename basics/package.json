@@ -9,7 +9,8 @@
   },
   "devDependencies": {
     "bl": "*",
-    "async": "*"
+    "async": "*",
+    "through2-map": "*"
   },
   "engines": {
     "node": ">=0.8.0"

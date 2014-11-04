@@ -6,8 +6,12 @@ http.get(process.argv[2], function (res) {
     bl(function (err, data) {
       if (err)
         console.error(data);
+
       console.log(data.length);
       console.log(data.toString());
     })
-  )
+  );
 });
+
+
+
