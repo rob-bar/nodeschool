@@ -1,0 +1,21 @@
+{
+  "author": "Robbie Bardijn",
+  "name": "lololodash",
+  "version": "0.0.1",
+  "private": true,
+  "description": "nodeschool lessons",
+
+  "scripts": {
+    "start": "nodemon app.coffee"
+  },
+
+  "devDependencies": {
+    "matchdep": "*",
+    "nodemon": "*",
+    "lodash": "*"
+  },
+
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
